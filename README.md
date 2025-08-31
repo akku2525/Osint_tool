@@ -44,7 +44,7 @@ Generates **HTML, PDF, TXT, CSV reports** with screenshots, dark mode, and optio
 Clone this repo:
 
 ```bash
-git clone https://github.com/YOURUSERNAME/osint-tool.git
+git clone https://github.com/akku2525/osint-tool.git
 cd osint-tool
 chmod +x osint-tool.sh
 
